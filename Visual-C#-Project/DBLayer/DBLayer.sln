@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLayer", "DBLayer\DBLayer.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLayer", "BLLayer\BLLayer.csproj", "{A3548827-2615-430E-A92D-1ED30BC898BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{2059EB46-35F4-4776-A680-EF1073A042B2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{A3548827-2615-430E-A92D-1ED30BC898BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3548827-2615-430E-A92D-1ED30BC898BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3548827-2615-430E-A92D-1ED30BC898BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2059EB46-35F4-4776-A680-EF1073A042B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2059EB46-35F4-4776-A680-EF1073A042B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2059EB46-35F4-4776-A680-EF1073A042B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2059EB46-35F4-4776-A680-EF1073A042B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
