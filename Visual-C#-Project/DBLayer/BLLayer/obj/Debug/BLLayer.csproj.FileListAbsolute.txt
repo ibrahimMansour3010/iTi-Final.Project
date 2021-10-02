@@ -1,0 +1,15 @@
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\BLLayer.dll.config
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\BLLayer.dll
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\BLLayer.pdb
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\DBLayer.dll
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\DBLayer.pdb
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\DBLayer.dll.config
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\obj\Debug\BLLayer.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\obj\Debug\BLLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\obj\Debug\BLLayer.csproj.CopyComplete
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\obj\Debug\BLLayer.dll
+C:\Users\Ibrahim Mansour\source\repos\DBLayer\BLLayer\obj\Debug\BLLayer.pdb

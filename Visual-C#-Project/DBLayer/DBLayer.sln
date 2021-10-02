@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLayer", "DBLayer\DBLayer.csproj", "{E10A5055-17C4-4B60-9ADC-7FD4DFFD2052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLayer", "BLLayer\BLLayer.csproj", "{A3548827-2615-430E-A92D-1ED30BC898BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{2059EB46-35F4-4776-A680-EF1073A042B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10A5055-17C4-4B60-9ADC-7FD4DFFD2052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10A5055-17C4-4B60-9ADC-7FD4DFFD2052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10A5055-17C4-4B60-9ADC-7FD4DFFD2052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10A5055-17C4-4B60-9ADC-7FD4DFFD2052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3548827-2615-430E-A92D-1ED30BC898BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3548827-2615-430E-A92D-1ED30BC898BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3548827-2615-430E-A92D-1ED30BC898BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3548827-2615-430E-A92D-1ED30BC898BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2059EB46-35F4-4776-A680-EF1073A042B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2059EB46-35F4-4776-A680-EF1073A042B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2059EB46-35F4-4776-A680-EF1073A042B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2059EB46-35F4-4776-A680-EF1073A042B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DC03C2-9BBB-4A15-9E83-CC4AC2254799}
+	EndGlobalSection
+EndGlobal
